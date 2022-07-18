@@ -9,9 +9,21 @@
     height: 800px;
  }
 
-.divone {
+.navarea {
     color: black;
+    text-align: center;
 } 
+
+.navarea h1{
+    font-family: 'QuickSand', sans-serif;
+    font-size: 70px;
+}
+
+.homepageimg {
+    background-image: url(/Images/homepageimg.jpg);
+    background-position: center;
+    height: 400px;
+}
 
 .labelsection {
     width: 600px;
