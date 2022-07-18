@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.assbody {
+    background: white;
+    height: 800px;
+ }
+
+.divone {
+    color: black;
+} 
+
+.labelsection {
+    width: 600px;
+    height: 50px;
+    border-width: 3px;
+    border-radius: 12px;
+}
+
+.divone h1 {
+    font-size: 50px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.formarea {
+    align-items: center;
+    font-size: 25px;
+    color: black;
+    text-align: center;
+    font-family: monospace;
+    font-weight: 900;
+}
+
+.formarea2 table {
+    align-items: center;
+    text-align: center;
+    width: 100%;
+}
+
+.btn {
+    font-size: 15px;
+    font-family: serif;
+    text-transform: uppercase;
+}
+
+.btn:hover{
+    color: yellow;
+    font-weight: 700px;
+    font-size: 20px;
+    padding: 15px;
+    background: grey;
+    font-family: sans-serif;
+}
+
+.btntwo:hover{
+    color: yellow;
+    font-weight: 700px;
+    font-size: 20px;
+    padding: 15px;
+    background: grey;
+    font-family: sans-serif;
+    bottom: 200;
+}
+
+.fillup {
+    align-items: center;
+    text-align: center;
+}
+
+.fillup header {
+    font-size: 25px;
+    font-family: serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: black;
+}
+
+.two {
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    font-family: monospace;
+}
