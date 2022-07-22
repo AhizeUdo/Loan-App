@@ -20,9 +20,26 @@
 }
 
 .homepageimg {
-    background-image: url(/Images/homepageimg.jpg);
+    background-image: url(/Images/homepagelanding.png);
     background-position: center;
-    height: 400px;
+    background-size: contain; 
+    background-repeat: no-repeat;
+    height: 900px;
+    margin-bottom: 50px;
+}
+
+label{
+  padding: 50px;
+}
+
+.formarea {
+    align-items: center;
+    font-size: 25px;
+    color: black;
+    text-align: center;
+    font-family: 'QuickSand', sans-serif;
+    font-weight: 900;
+    margin: 50px;
 }
 
 .labelsection {
@@ -30,9 +47,9 @@
     height: 50px;
     border-width: 3px;
     border-radius: 10px;
-    padding: 10px;
+    padding: 25px;
     font-weight: 600;
-
+    margin: 20px;
 }
 
 .divone h1 {
@@ -43,14 +60,7 @@
     text-transform: uppercase;
 }
 
-.formarea {
-    align-items: center;
-    font-size: 25px;
-    color: black;
-    text-align: center;
-    font-family: monospace;
-    font-weight: 900;
-}
+
 
 .formarea2 table {
     align-items: center;
